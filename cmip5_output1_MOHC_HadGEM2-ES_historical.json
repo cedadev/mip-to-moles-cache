@@ -1,0 +1,568 @@
+{
+    "activity": "cmip5",
+    "data_path": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/3hr/atmos/3hr/r2i1p1/v20110323",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.3hr.atmos.3hr.r2i1p1.v20110323",
+            "version": "v20110323"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/3hr/land/3hr/r2i1p1/v20111007",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.3hr.land.3hr.r2i1p1.v20111007",
+            "version": "v20111007"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/6hr/atmos/6hrLev/r1i1p1/v20110921",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.6hr.atmos.6hrLev.r1i1p1.v20110921",
+            "version": "v20110921"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/6hr/atmos/6hrLev/r2i1p1/v20130418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.6hr.atmos.6hrLev.r2i1p1.v20130418",
+            "version": "v20130418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/6hr/atmos/6hrPlev/r1i1p1/v20101208",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.6hr.atmos.6hrPlev.r1i1p1.v20101208",
+            "version": "v20101208"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/6hr/atmos/6hrPlev/r2i1p1/v20130419",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.6hr.atmos.6hrPlev.r2i1p1.v20130419",
+            "version": "v20130419"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/atmos/cfDay/r1i1p1/v20111222",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.atmos.cfDay.r1i1p1.v20111222",
+            "version": "v20111222"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/atmos/day/r1i1p1/v20120716",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.atmos.day.r1i1p1.v20120716",
+            "version": "v20120716"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/atmos/day/r2i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.atmos.day.r2i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/atmos/day/r3i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.atmos.day.r3i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/atmos/day/r4i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.atmos.day.r4i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/land/day/r1i1p1/v20111212",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.land.day.r1i1p1.v20111212",
+            "version": "v20111212"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/landIce/day/r1i1p1/v20111212",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.landIce.day.r1i1p1.v20111212",
+            "version": "v20111212"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/ocean/day/r1i1p1/v20110131",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.ocean.day.r1i1p1.v20110131",
+            "version": "v20110131"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/ocean/day/r2i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.ocean.day.r2i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/ocean/day/r3i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.ocean.day.r3i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/ocean/day/r4i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.ocean.day.r4i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/day/seaIce/day/r1i1p1/v20111214",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.day.seaIce.day.r1i1p1.v20111214",
+            "version": "v20111214"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/fx/atmos/fx/r0i0p0/v20120215",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.fx.atmos.fx.r0i0p0.v20120215",
+            "version": "v20120215"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/fx/atmos/fx/r1i1p1/v20110315",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.fx.atmos.fx.r1i1p1.v20110315",
+            "version": "v20110315"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/fx/ocean/fx/r0i0p0/v20130612",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.fx.ocean.fx.r0i0p0.v20130612",
+            "version": "v20130612"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/aerosol/aero/r1i1p1/v20110329",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.aerosol.aero.r1i1p1.v20110329",
+            "version": "v20110329"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/aerosol/aero/r2i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.aerosol.aero.r2i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/aerosol/aero/r3i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.aerosol.aero.r3i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/aerosol/aero/r4i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.aerosol.aero.r4i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/atmos/Amon/r1i1p1/v20120928",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.atmos.Amon.r1i1p1.v20120928",
+            "version": "v20120928"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/atmos/Amon/r2i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.atmos.Amon.r2i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/atmos/Amon/r3i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.atmos.Amon.r3i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/atmos/Amon/r4i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.atmos.Amon.r4i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/atmos/cfMon/r1i1p1/v20111213",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.atmos.cfMon.r1i1p1.v20111213",
+            "version": "v20111213"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/land/Lmon/r1i1p1/v20111007",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.land.Lmon.r1i1p1.v20111007",
+            "version": "v20111007"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/land/Lmon/r2i1p1/v20111007",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.land.Lmon.r2i1p1.v20111007",
+            "version": "v20111007"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/land/Lmon/r3i1p1/v20111007",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.land.Lmon.r3i1p1.v20111007",
+            "version": "v20111007"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/land/Lmon/r4i1p1/v20111007",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.land.Lmon.r4i1p1.v20111007",
+            "version": "v20111007"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/landIce/LImon/r1i1p1/v20110329",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.landIce.LImon.r1i1p1.v20110329",
+            "version": "v20110329"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/landIce/LImon/r2i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.landIce.LImon.r2i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/landIce/LImon/r3i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.landIce.LImon.r3i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/landIce/LImon/r4i1p1/v20110418",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.landIce.LImon.r4i1p1.v20110418",
+            "version": "v20110418"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/ocean/Omon/r1i1p1/v20110916",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.ocean.Omon.r1i1p1.v20110916",
+            "version": "v20110916"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/ocean/Omon/r2i1p1/v20111217",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.ocean.Omon.r2i1p1.v20111217",
+            "version": "v20111217"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/ocean/Omon/r3i1p1/v20111218",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.ocean.Omon.r3i1p1.v20111218",
+            "version": "v20111218"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/ocean/Omon/r4i1p1/v20111218",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.ocean.Omon.r4i1p1.v20111218",
+            "version": "v20111218"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/ocnBgchem/Omon/r1i1p1/v20110916",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.ocnBgchem.Omon.r1i1p1.v20110916",
+            "version": "v20110916"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/ocnBgchem/Omon/r2i1p1/v20111217",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.ocnBgchem.Omon.r2i1p1.v20111217",
+            "version": "v20111217"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/ocnBgchem/Omon/r3i1p1/v20111218",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.ocnBgchem.Omon.r3i1p1.v20111218",
+            "version": "v20111218"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/ocnBgchem/Omon/r4i1p1/v20111218",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.ocnBgchem.Omon.r4i1p1.v20111218",
+            "version": "v20111218"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/seaIce/OImon/r1i1p1/v20110916",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.seaIce.OImon.r1i1p1.v20110916",
+            "version": "v20110916"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/seaIce/OImon/r2i1p1/v20111217",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.seaIce.OImon.r2i1p1.v20111217",
+            "version": "v20111217"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/seaIce/OImon/r3i1p1/v20111218",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.seaIce.OImon.r3i1p1.v20111218",
+            "version": "v20111218"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/mon/seaIce/OImon/r4i1p1/v20111218",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.mon.seaIce.OImon.r4i1p1.v20111218",
+            "version": "v20111218"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/yr/ocnBgchem/Oyr/r1i1p1/v20110916",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.yr.ocnBgchem.Oyr.r1i1p1.v20110916",
+            "version": "v20110916"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/yr/ocnBgchem/Oyr/r2i1p1/v20111217",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.yr.ocnBgchem.Oyr.r2i1p1.v20111217",
+            "version": "v20111217"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/yr/ocnBgchem/Oyr/r3i1p1/v20111218",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.yr.ocnBgchem.Oyr.r3i1p1.v20111218",
+            "version": "v20111218"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historical/yr/ocnBgchem/Oyr/r4i1p1/v20111218",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historical.yr.ocnBgchem.Oyr.r4i1p1.v20111218",
+            "version": "v20111218"
+        }
+    ],
+    "ensemble_member": [
+        "r0i0p0",
+        "r1i1p1",
+        "r2i1p1",
+        "r3i1p1",
+        "r4i1p1"
+    ],
+    "esdoc": {
+        "experiment": {},
+        "model": {
+            "html_url": "http://view.es-doc.org/?renderMethod=id&project=CMIP5&id=309f6a26-e2b3-11df-bf17-00163e9152a5",
+            "xml_url": "http://api.es-doc.org/2/document/search-id?client=BADC&encoding=xml&project=CMIP5&id=309f6a26-e2b3-11df-bf17-00163e9152a5&version=latest"
+        },
+        "simulation": {
+            "html_url": "http://view.es-doc.org/?renderMethod=id&project=CMIP5&id=b83aceb2-e349-11df-b73d-00163e9152a5",
+            "xml_url": "http://api.es-doc.org/2/document/search-id?client=BADC&encoding=xml&project=CMIP5&id=b83aceb2-e349-11df-b73d-00163e9152a5&version=latest"
+        }
+    },
+    "experiment": [
+        "historical"
+    ],
+    "frequency": [
+        "3hr",
+        "6hr",
+        "day",
+        "fx",
+        "mon",
+        "yr"
+    ],
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "institute": "MOHC",
+    "mip_table": [
+        "3hr",
+        "6hrLev",
+        "6hrPlev",
+        "Amon",
+        "LImon",
+        "Lmon",
+        "OImon",
+        "Omon",
+        "Oyr",
+        "aero",
+        "cfDay",
+        "cfMon",
+        "day",
+        "fx"
+    ],
+    "model": "HadGEM2-ES",
+    "n_files": 7210,
+    "phenomena": [
+        "albisccp",
+        "areacella",
+        "areacello",
+        "baresoilFrac",
+        "basin",
+        "bfe",
+        "bsi",
+        "c3PftFrac",
+        "c4PftFrac",
+        "cLeaf",
+        "cProduct",
+        "cRoot",
+        "cSoil",
+        "cSoilFast",
+        "cSoilMedium",
+        "cVeg",
+        "cWood",
+        "ccb",
+        "cct",
+        "cdnc",
+        "chl",
+        "chldiat",
+        "chlmisc",
+        "cl",
+        "clcalipso",
+        "cldnvi",
+        "clhcalipso",
+        "cli",
+        "clisccp",
+        "clivi",
+        "cllcalipso",
+        "clmcalipso",
+        "clt",
+        "cltcalipso",
+        "cltisccp",
+        "clw",
+        "clwvi",
+        "co3",
+        "co3satarag",
+        "co3satcalc",
+        "concbb",
+        "concbc",
+        "concdms",
+        "concdust",
+        "concso2",
+        "concso4",
+        "concsoa",
+        "concss",
+        "deptho",
+        "detoc",
+        "dfe",
+        "dissic",
+        "dms",
+        "drybc",
+        "drydust",
+        "dryso2",
+        "emibb",
+        "emibc",
+        "emidms",
+        "emidust",
+        "emiso2",
+        "epc100",
+        "epcalc100",
+        "epfe100",
+        "epsi100",
+        "evspsbl",
+        "evspsblveg",
+        "fLuc",
+        "fVegSoil",
+        "fbddtalk",
+        "fbddtdic",
+        "fbddtdife",
+        "fbddtdin",
+        "fbddtdisi",
+        "fgco2",
+        "fgdms",
+        "fgo2",
+        "frfe",
+        "friver",
+        "fsfe",
+        "fsitherm",
+        "gpp",
+        "grassFrac",
+        "hfls",
+        "hfsifrazil",
+        "hfss",
+        "hur",
+        "hurs",
+        "hus",
+        "huss",
+        "intdic",
+        "intpbfe",
+        "intpbsi",
+        "intpcalcite",
+        "intpdiat",
+        "intpmisc",
+        "intpnitrate",
+        "intpp",
+        "lai",
+        "landCoverFrac",
+        "loadbc",
+        "loaddust",
+        "loadso4",
+        "loadsoa",
+        "loadss",
+        "mc",
+        "mfo",
+        "mrfso",
+        "mrlsl",
+        "mrso",
+        "mrsos",
+        "nbp",
+        "nep",
+        "nh4",
+        "no3",
+        "npp",
+        "o2",
+        "o2min",
+        "od550aer",
+        "od870aer",
+        "orog",
+        "parasolRefl",
+        "pctisccp",
+        "ph",
+        "phyc",
+        "phydiat",
+        "phyfe",
+        "phymisc",
+        "phyn",
+        "physi",
+        "pon",
+        "pr",
+        "prc",
+        "prsn",
+        "prveg",
+        "prw",
+        "ps",
+        "psl",
+        "rGrowth",
+        "rMaint",
+        "ra",
+        "reffclwc",
+        "reffclws",
+        "reffclwtop",
+        "residualFrac",
+        "rh",
+        "rhs",
+        "rhsmax",
+        "rhsmin",
+        "rlds",
+        "rldscs",
+        "rlus",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdscs",
+        "rsdsdiff",
+        "rsdt",
+        "rsus",
+        "rsuscs",
+        "rsut",
+        "rsutcs",
+        "sbl",
+        "sblsi",
+        "sci",
+        "sfcWind",
+        "sfcWindmax",
+        "sftlf",
+        "sftof",
+        "shrubFrac",
+        "si",
+        "sic",
+        "sim",
+        "sit",
+        "snd",
+        "snoToIce",
+        "snw",
+        "so",
+        "soga",
+        "sos",
+        "spco2",
+        "ta",
+        "ta700",
+        "talk",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauv",
+        "thetao",
+        "thetaoga",
+        "thkcello",
+        "tos",
+        "treeFrac",
+        "ts",
+        "tsl",
+        "ua",
+        "uas",
+        "uo",
+        "usi",
+        "va",
+        "vas",
+        "vo",
+        "volcello",
+        "vsi",
+        "wap",
+        "wap500",
+        "wetbc",
+        "wetso2",
+        "wetso4",
+        "wfo",
+        "wfonocorr",
+        "wmo",
+        "zg",
+        "zo2min",
+        "zooc",
+        "zos",
+        "zossga",
+        "zostoga",
+        "zsatarag",
+        "zsatcalc"
+    ],
+    "product": "output1",
+    "realm": [
+        "aerosol",
+        "atmos",
+        "land",
+        "landIce",
+        "ocean",
+        "ocnBgchem",
+        "seaIce"
+    ],
+    "size_in_bytes": 5130304946176,
+    "temporal_extent": [
+        "1859-12-01 12:00:00",
+        "2006-01-01 00:00:00"
+    ]
+}

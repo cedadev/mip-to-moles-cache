@@ -1,0 +1,423 @@
+{
+    "activity": "cmip5",
+    "data_path": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt",
+    "drs_datasets": [
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/day/atmos/day/r2i1p1/v20111222",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.day.atmos.day.r2i1p1.v20111222",
+            "version": "v20111222"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/day/atmos/day/r3i1p1/v20111222",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.day.atmos.day.r3i1p1.v20111222",
+            "version": "v20111222"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/day/atmos/day/r4i1p1/v20111222",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.day.atmos.day.r4i1p1.v20111222",
+            "version": "v20111222"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/day/ocean/day/r2i1p1/v20111222",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.day.ocean.day.r2i1p1.v20111222",
+            "version": "v20111222"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/day/ocean/day/r3i1p1/v20111222",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.day.ocean.day.r3i1p1.v20111222",
+            "version": "v20111222"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/day/ocean/day/r4i1p1/v20111222",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.day.ocean.day.r4i1p1.v20111222",
+            "version": "v20111222"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/day/seaIce/day/r2i1p1/v20111222",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.day.seaIce.day.r2i1p1.v20111222",
+            "version": "v20111222"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/day/seaIce/day/r3i1p1/v20111222",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.day.seaIce.day.r3i1p1.v20111222",
+            "version": "v20111222"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/day/seaIce/day/r4i1p1/v20111222",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.day.seaIce.day.r4i1p1.v20111222",
+            "version": "v20111222"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/aerosol/aero/r2i1p1/v20110923",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.aerosol.aero.r2i1p1.v20110923",
+            "version": "v20110923"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/aerosol/aero/r3i1p1/v20111014",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.aerosol.aero.r3i1p1.v20111014",
+            "version": "v20111014"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/aerosol/aero/r4i1p1/v20111014",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.aerosol.aero.r4i1p1.v20111014",
+            "version": "v20111014"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/atmos/Amon/r2i1p1/v20111229",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.atmos.Amon.r2i1p1.v20111229",
+            "version": "v20111229"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/atmos/Amon/r3i1p1/v20111229",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.atmos.Amon.r3i1p1.v20111229",
+            "version": "v20111229"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/atmos/Amon/r4i1p1/v20111229",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.atmos.Amon.r4i1p1.v20111229",
+            "version": "v20111229"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/land/Lmon/r2i1p1/v20110923",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.land.Lmon.r2i1p1.v20110923",
+            "version": "v20110923"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/land/Lmon/r3i1p1/v20111014",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.land.Lmon.r3i1p1.v20111014",
+            "version": "v20111014"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/land/Lmon/r4i1p1/v20111014",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.land.Lmon.r4i1p1.v20111014",
+            "version": "v20111014"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/landIce/LImon/r2i1p1/v20110923",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.landIce.LImon.r2i1p1.v20110923",
+            "version": "v20110923"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/landIce/LImon/r3i1p1/v20111014",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.landIce.LImon.r3i1p1.v20111014",
+            "version": "v20111014"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/landIce/LImon/r4i1p1/v20111014",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.landIce.LImon.r4i1p1.v20111014",
+            "version": "v20111014"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/ocean/Omon/r2i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.ocean.Omon.r2i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/ocean/Omon/r3i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.ocean.Omon.r3i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/ocean/Omon/r4i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.ocean.Omon.r4i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/ocnBgchem/Omon/r2i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.ocnBgchem.Omon.r2i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/ocnBgchem/Omon/r3i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.ocnBgchem.Omon.r3i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/ocnBgchem/Omon/r4i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.ocnBgchem.Omon.r4i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/seaIce/OImon/r2i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.seaIce.OImon.r2i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/seaIce/OImon/r3i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.seaIce.OImon.r3i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/mon/seaIce/OImon/r4i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.mon.seaIce.OImon.r4i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/yr/ocnBgchem/Oyr/r2i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.yr.ocnBgchem.Oyr.r2i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/yr/ocnBgchem/Oyr/r3i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.yr.ocnBgchem.Oyr.r3i1p1.v20120106",
+            "version": "v20120106"
+        },
+        {
+            "directory": "/badc/cmip5/data/cmip5/output1/MOHC/HadGEM2-ES/historicalExt/yr/ocnBgchem/Oyr/r4i1p1/v20120106",
+            "drs_id": "cmip5.output1.MOHC.HadGEM2-ES.historicalExt.yr.ocnBgchem.Oyr.r4i1p1.v20120106",
+            "version": "v20120106"
+        }
+    ],
+    "ensemble_member": [
+        "r2i1p1",
+        "r3i1p1",
+        "r4i1p1"
+    ],
+    "esdoc": {
+        "experiment": {
+            "description": "Extend the CMIP5 historical runs to the near-present (as we have for AMIP), rather than ending them in 2005.  \n        Simulations extended to at least the end of 2012 using some estimate of recent and future forcing.  \n        Groups are free to use whatever concentrations, solar forcing, SO2 emissions etc. they want to use in extending these runs.\n        It is also o.k. for detection/attribution studies to simply splice one of the RCP runs to the end of the historical simulations.\n        \n        It is recommended that if an ensemble of \"all-forcings\" historical simulations have been run, then *each* member of the ensemble should be carried to the end of 2012.  \n        For all-forcing (anthro + natural) historical runs, the extended portions of these runs should be treated as a new runs spawned from the parent historical runs at \n        the end of year 2005.  If this run is forced by an RCP that extends at least to the end of the 21st century, then nothing special needs to be done.  \n        If, however, some other forcing is used or if the run is an RCP run that is truncated after a few years (say ending in 2012), then the run should be considered a \n        \"historical extension\" experiment with its output placed in a directory named historicalExt.  The \"forcing\" attribute (a netCDF global attribute) should describe what \n        forcing is used to extend the run, and this information will also need to be recorded here in the questionnaire.     \n        For these historicalExt experiments, the ensemble member (designated by the \"rip\" value appearing in the filename and recorded as netCDF global attributes) \n        will be identical to the historical run it extends.  \n        \n        If one chooses to do historical runs with only a subset of forcing (e.g., GHG only, natural forcing only, single-forcing experiments, etc.), then all the data for \n        the complete historical period and in the extended portion (from 2006-2012) would be kept together, no matter what forcing was used (in the historicalNat, historicalGHG, \n        or historicalMisc directories).",
+            "html_url": "http://view.es-doc.org/?renderMethod=id&project=CMIP5&id=b72876d6-d3a5-11df-837f-00163e9152a5",
+            "long_name": "Historical Extension",
+            "xml_url": "http://api.es-doc.org/2/document/search-id?client=BADC&encoding=xml&project=CMIP5&id=b72876d6-d3a5-11df-837f-00163e9152a5&version=latest"
+        },
+        "model": {
+            "html_url": "http://view.es-doc.org/?renderMethod=id&project=CMIP5&id=309f6a26-e2b3-11df-bf17-00163e9152a5",
+            "xml_url": "http://api.es-doc.org/2/document/search-id?client=BADC&encoding=xml&project=CMIP5&id=309f6a26-e2b3-11df-bf17-00163e9152a5&version=latest"
+        },
+        "simulation": {
+            "html_url": "http://view.es-doc.org/?renderMethod=id&project=CMIP5&id=84d52fd8-2c8e-11e1-a4f1-00163e9152a5",
+            "xml_url": "http://api.es-doc.org/2/document/search-id?client=BADC&encoding=xml&project=CMIP5&id=84d52fd8-2c8e-11e1-a4f1-00163e9152a5&version=latest"
+        }
+    },
+    "experiment": [
+        "historicalExt"
+    ],
+    "frequency": [
+        "day",
+        "mon",
+        "yr"
+    ],
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "institute": "MOHC",
+    "mip_table": [
+        "Amon",
+        "LImon",
+        "Lmon",
+        "OImon",
+        "Omon",
+        "Oyr",
+        "aero",
+        "day"
+    ],
+    "model": "HadGEM2-ES",
+    "n_files": 707,
+    "phenomena": [
+        "baresoilFrac",
+        "bfe",
+        "bsi",
+        "c3PftFrac",
+        "c4PftFrac",
+        "cLeaf",
+        "cProduct",
+        "cRoot",
+        "cSoil",
+        "cSoilFast",
+        "cSoilMedium",
+        "cVeg",
+        "cWood",
+        "chl",
+        "chldiat",
+        "chlmisc",
+        "cl",
+        "cldnvi",
+        "cli",
+        "clivi",
+        "clt",
+        "clw",
+        "clwvi",
+        "co3",
+        "co3satarag",
+        "co3satcalc",
+        "detoc",
+        "dfe",
+        "dissic",
+        "dms",
+        "drybc",
+        "drydust",
+        "dryso2",
+        "emibb",
+        "emibc",
+        "emidms",
+        "emidust",
+        "emiso2",
+        "epc100",
+        "epcalc100",
+        "epfe100",
+        "epsi100",
+        "evspsbl",
+        "evspsblveg",
+        "fLuc",
+        "fVegSoil",
+        "fbddtalk",
+        "fbddtdic",
+        "fbddtdife",
+        "fbddtdin",
+        "fbddtdisi",
+        "fgco2",
+        "fgdms",
+        "fgo2",
+        "frfe",
+        "friver",
+        "fsfe",
+        "fsitherm",
+        "gpp",
+        "grassFrac",
+        "hfls",
+        "hfsifrazil",
+        "hfss",
+        "hur",
+        "hurs",
+        "hus",
+        "huss",
+        "intdic",
+        "intpbfe",
+        "intpbsi",
+        "intpcalcite",
+        "intpdiat",
+        "intpmisc",
+        "intpnitrate",
+        "intpp",
+        "lai",
+        "landCoverFrac",
+        "loadbc",
+        "loaddust",
+        "loadso4",
+        "loadsoa",
+        "loadss",
+        "mc",
+        "mfo",
+        "mrfso",
+        "mrlsl",
+        "mrso",
+        "mrsos",
+        "nbp",
+        "nep",
+        "nh4",
+        "no3",
+        "npp",
+        "o2",
+        "o2min",
+        "od550aer",
+        "od870aer",
+        "ph",
+        "phyc",
+        "phydiat",
+        "phyfe",
+        "phymisc",
+        "phyn",
+        "physi",
+        "pon",
+        "pr",
+        "prc",
+        "prsn",
+        "prveg",
+        "prw",
+        "ps",
+        "psl",
+        "rGrowth",
+        "rMaint",
+        "ra",
+        "reffclwtop",
+        "residualFrac",
+        "rh",
+        "rlds",
+        "rldscs",
+        "rlus",
+        "rlut",
+        "rlutcs",
+        "rsds",
+        "rsdscs",
+        "rsdt",
+        "rsus",
+        "rsuscs",
+        "rsut",
+        "rsutcs",
+        "sbl",
+        "sblsi",
+        "sci",
+        "sconcbc",
+        "sconcdust",
+        "sconcso4",
+        "sconcsoa",
+        "sconcss",
+        "sfcWind",
+        "shrubFrac",
+        "si",
+        "sic",
+        "sim",
+        "sit",
+        "snd",
+        "snoToIce",
+        "snw",
+        "so",
+        "soga",
+        "sos",
+        "spco2",
+        "ta",
+        "talk",
+        "tas",
+        "tasmax",
+        "tasmin",
+        "tauu",
+        "tauv",
+        "thetao",
+        "thetaoga",
+        "tos",
+        "treeFrac",
+        "ts",
+        "tsl",
+        "ua",
+        "uas",
+        "uo",
+        "usi",
+        "va",
+        "vas",
+        "vo",
+        "vsi",
+        "wap",
+        "wetbc",
+        "wetso2",
+        "wetso4",
+        "wfo",
+        "wfonocorr",
+        "wmo",
+        "zg",
+        "zo2min",
+        "zooc",
+        "zos",
+        "zossga",
+        "zostoga",
+        "zsatarag",
+        "zsatcalc"
+    ],
+    "product": "output1",
+    "realm": [
+        "aerosol",
+        "atmos",
+        "land",
+        "landIce",
+        "ocean",
+        "ocnBgchem",
+        "seaIce"
+    ],
+    "size_in_bytes": 144597450752,
+    "temporal_extent": [
+        "2005-12-01 12:00:00",
+        "2030-11-30 12:00:00"
+    ]
+}
