@@ -1,1 +1,103 @@
-{"product": "SPECS", "realm": ["day"], "version": ["r1i1p1", "r2i1p1", "r3i1p1", "r4i1p1", "r5i1p1", "r6i1p1"], "institute": "output", "phenomena": ["mlotst", "snld"], "size_in_bytes": -100000, "data_path": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact", "drs_datasets": [{"directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r1i1p1/v20150831", "version": "v20150831", "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r1i1p1.v20150831"}, {"directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r2i1p1/v20150831", "version": "v20150831", "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r2i1p1.v20150831"}, {"directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r3i1p1/v20150831", "version": "v20150831", "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r3i1p1.v20150831"}, {"directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r4i1p1/v20150831", "version": "v20150831", "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r4i1p1.v20150831"}, {"directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r5i1p1/v20150831", "version": "v20150831", "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r5i1p1.v20150831"}, {"directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r6i1p1/v20150831", "version": "v20150831", "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r6i1p1.v20150831"}, {"directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/ocean/day/mlotst/r1i1p1/v20150831", "version": "v20150831", "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.ocean.day.mlotst.r1i1p1.v20150831"}, {"directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/ocean/day/mlotst/r2i1p1/v20150831", "version": "v20150831", "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.ocean.day.mlotst.r2i1p1.v20150831"}, {"directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/ocean/day/mlotst/r3i1p1/v20150831", "version": "v20150831", "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.ocean.day.mlotst.r3i1p1.v20150831"}, {"directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/ocean/day/mlotst/r4i1p1/v20150831", "version": "v20150831", "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.ocean.day.mlotst.r4i1p1.v20150831"}], "mip_table": ["atmos", "ocean"], "temporal_extent": ["1994-11-01 12:00:00", "1996-12-31 12:00:00"], "experiment": "CERFACS-HR", "frequency": ["S19941101"], "geographic_extent": [0, 360, 90, -90], "variable": ["day"], "ensemble_member": ["mlotst", "snld"], "model": "CNRM-CERFACS", "start_date": ["horizlResImpact"], "n_files": 110}
+{
+    "activity": "SPECS",
+    "data_path": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact",
+    "drs_datasets": [
+        {
+            "directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r1i1p1/v20150831",
+            "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r1i1p1.v20150831",
+            "version": "v20150831"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r2i1p1/v20150831",
+            "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r2i1p1.v20150831",
+            "version": "v20150831"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r3i1p1/v20150831",
+            "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r3i1p1.v20150831",
+            "version": "v20150831"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r4i1p1/v20150831",
+            "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r4i1p1.v20150831",
+            "version": "v20150831"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r5i1p1/v20150831",
+            "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r5i1p1.v20150831",
+            "version": "v20150831"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/atmos/day/snld/r6i1p1/v20150831",
+            "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.atmos.day.snld.r6i1p1.v20150831",
+            "version": "v20150831"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/ocean/day/mlotst/r1i1p1/v20150831",
+            "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.ocean.day.mlotst.r1i1p1.v20150831",
+            "version": "v20150831"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/ocean/day/mlotst/r2i1p1/v20150831",
+            "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.ocean.day.mlotst.r2i1p1.v20150831",
+            "version": "v20150831"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/ocean/day/mlotst/r3i1p1/v20150831",
+            "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.ocean.day.mlotst.r3i1p1.v20150831",
+            "version": "v20150831"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/CNRM-CERFACS/CERFACS-HR/horizlResImpact/S19941101/day/ocean/day/mlotst/r4i1p1/v20150831",
+            "drs_id": "SPECS.output.CNRM-CERFACS.CERFACS-HR.horizlResImpact.S19941101.day.ocean.day.mlotst.r4i1p1.v20150831",
+            "version": "v20150831"
+        }
+    ],
+    "ensemble_member": [
+        "r1i1p1",
+        "r2i1p1",
+        "r3i1p1",
+        "r4i1p1",
+        "r5i1p1",
+        "r6i1p1"
+    ],
+    "experiment": [
+        "horizlResImpact"
+    ],
+    "frequency": [
+        "day"
+    ],
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "institute": "CNRM-CERFACS",
+    "mip_table": [
+        "day"
+    ],
+    "model": "CERFACS-HR",
+    "n_files": 110,
+    "phenomena": [
+        "mlotst",
+        "snld"
+    ],
+    "product": "output",
+    "realm": [
+        "atmos",
+        "ocean"
+    ],
+    "size_in_bytes": -100000,
+    "start_date": [
+        "S19941101"
+    ],
+    "temporal_extent": [
+        "1994-11-01 12:00:00",
+        "1996-12-31 12:00:00"
+    ],
+    "variable": [
+        "mlotst",
+        "snld"
+    ]
+}

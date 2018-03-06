@@ -1,1 +1,104 @@
-{"product": "SPECS", "realm": ["day"], "version": ["r10i1p1", "r10i2p1", "r11i1p1", "r11i2p1", "r12i1p1", "r12i2p1", "r13i1p1", "r13i2p1", "r14i1p1", "r14i2p1"], "institute": "output", "phenomena": ["clt"], "size_in_bytes": -100000, "data_path": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit", "drs_datasets": [{"directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r10i1p1/v20151203", "version": "v20151203", "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r10i1p1.v20151203"}, {"directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r10i2p1/v20151203", "version": "v20151203", "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r10i2p1.v20151203"}, {"directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r11i1p1/v20151203", "version": "v20151203", "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r11i1p1.v20151203"}, {"directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r11i2p1/v20151203", "version": "v20151203", "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r11i2p1.v20151203"}, {"directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r12i1p1/v20151203", "version": "v20151203", "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r12i1p1.v20151203"}, {"directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r12i2p1/v20151203", "version": "v20151203", "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r12i2p1.v20151203"}, {"directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r13i1p1/v20151203", "version": "v20151203", "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r13i1p1.v20151203"}, {"directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r13i2p1/v20151203", "version": "v20151203", "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r13i2p1.v20151203"}, {"directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r14i1p1/v20151203", "version": "v20151203", "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r14i1p1.v20151203"}, {"directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r14i2p1/v20151203", "version": "v20151203", "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r14i2p1.v20151203"}], "mip_table": ["atmos"], "temporal_extent": ["2004-11-01 12:00:00", "2005-02-28 12:00:00"], "experiment": "IFS4", "frequency": ["S20041101"], "geographic_extent": [0, 360, 90, -90], "variable": ["day"], "ensemble_member": ["clt"], "model": "ECMWF", "start_date": ["snowInit"], "n_files": 10}
+{
+    "activity": "SPECS",
+    "data_path": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit",
+    "drs_datasets": [
+        {
+            "directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r10i1p1/v20151203",
+            "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r10i1p1.v20151203",
+            "version": "v20151203"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r10i2p1/v20151203",
+            "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r10i2p1.v20151203",
+            "version": "v20151203"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r11i1p1/v20151203",
+            "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r11i1p1.v20151203",
+            "version": "v20151203"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r11i2p1/v20151203",
+            "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r11i2p1.v20151203",
+            "version": "v20151203"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r12i1p1/v20151203",
+            "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r12i1p1.v20151203",
+            "version": "v20151203"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r12i2p1/v20151203",
+            "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r12i2p1.v20151203",
+            "version": "v20151203"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r13i1p1/v20151203",
+            "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r13i1p1.v20151203",
+            "version": "v20151203"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r13i2p1/v20151203",
+            "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r13i2p1.v20151203",
+            "version": "v20151203"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r14i1p1/v20151203",
+            "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r14i1p1.v20151203",
+            "version": "v20151203"
+        },
+        {
+            "directory": "/badc/specs/data/SPECS/output/ECMWF/IFS4/snowInit/S20041101/day/atmos/day/clt/r14i2p1/v20151203",
+            "drs_id": "SPECS.output.ECMWF.IFS4.snowInit.S20041101.day.atmos.day.clt.r14i2p1.v20151203",
+            "version": "v20151203"
+        }
+    ],
+    "ensemble_member": [
+        "r10i1p1",
+        "r10i2p1",
+        "r11i1p1",
+        "r11i2p1",
+        "r12i1p1",
+        "r12i2p1",
+        "r13i1p1",
+        "r13i2p1",
+        "r14i1p1",
+        "r14i2p1"
+    ],
+    "experiment": [
+        "snowInit"
+    ],
+    "frequency": [
+        "day"
+    ],
+    "geographic_extent": [
+        0,
+        360,
+        90,
+        -90
+    ],
+    "institute": "ECMWF",
+    "mip_table": [
+        "day"
+    ],
+    "model": "IFS4",
+    "n_files": 10,
+    "phenomena": [
+        "clt"
+    ],
+    "product": "output",
+    "realm": [
+        "atmos"
+    ],
+    "size_in_bytes": -100000,
+    "start_date": [
+        "S20041101"
+    ],
+    "temporal_extent": [
+        "2004-11-01 12:00:00",
+        "2005-02-28 12:00:00"
+    ],
+    "variable": [
+        "clt"
+    ]
+}
